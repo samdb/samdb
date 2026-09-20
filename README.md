@@ -11,4 +11,4 @@ Stock data and regulatory filing app — making financial data accessible and ac
 
 - 📈 [@tickerfinance](https://github.com/tickerfinance)
 - 🏢 [@copiadigital](https://github.com/copiadigital)
-- 🍇 [@vitisevents](https://github.com/vitisevents)
+- 🍇 [@copiaevents](https://github.com/copiaevents)
